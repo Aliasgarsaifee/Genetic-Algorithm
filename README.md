@@ -43,7 +43,8 @@ Press **ESC** while focusing the game window to stop the algorithm and show the 
 
 ### Screenshots
 ---
-![FlapAI](screenshots/Screenshot from 2020-08-09 00-16-25.png)
-![FlapAI1](screenshots/Screenshot from 2020-08-09 00-16-20.png)
-![FlapAI2](screenshots/Screenshot from 2020-08-09 00-20-33.png)
+![FlapAI](https://github.com/Aliasgarsaifee/Genetic-Algorithm/blob/master/screenshots/Screenshot%20from%202020-08-09%2000-16-20.png)
+![FlapAI1](https://github.com/Aliasgarsaifee/Genetic-Algorithm/blob/master/screenshots/Screenshot%20from%202020-08-09%2000-16-37.png)
+![FlapAI2](https://github.com/Aliasgarsaifee/Genetic-Algorithm/blob/master/screenshots/Screenshot%20from%202020-08-09%2000-20-33.png)
+![FlapAI4](https://github.com/Aliasgarsaifee/Genetic-Algorithm/blob/master/screenshots/Screenshot%20from%202020-08-09%2000-27-08.png)
 ![Ninja!](screenshots/output.gif)
