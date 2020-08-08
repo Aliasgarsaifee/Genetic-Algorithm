@@ -44,6 +44,6 @@ Press **ESC** while focusing the game window to stop the algorithm and show the 
 ### Screenshots
 ---
 ![FlapAI](screenshots/Screenshot from 2020-08-09 00-16-25.png)
-![FlapAI](screenshots/Screenshot from 2020-08-09 00-16-20.png)
-![FlapAI](screenshots/Screenshot from 2020-08-09 00-20-33.png)
+![FlapAI1](screenshots/Screenshot from 2020-08-09 00-16-20.png)
+![FlapAI2](screenshots/Screenshot from 2020-08-09 00-20-33.png)
 ![Ninja!](screenshots/output.gif)
